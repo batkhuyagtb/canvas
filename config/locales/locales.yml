@@ -2,6 +2,10 @@ en:
   locales:
     en: English (US)
   qualified_locale: en-US
+mn:
+  locales:
+    mn:Mongolian (MN)
+  qualified_locale: mn-MN
 es:
   locales:
     es: Español
